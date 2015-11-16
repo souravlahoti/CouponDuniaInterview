@@ -1,2 +1,2 @@
 # CouponDuniaInterview
-Interview Assignment for Coupon Dunia Frontend Development with Solution
+Front End Developer Interview Assignment for Coupon Dunia Frontend Development with Solution
